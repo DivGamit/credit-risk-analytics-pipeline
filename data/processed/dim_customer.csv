@@ -1,0 +1,501 @@
+Customer_ID,Age,Employment_Status,Location,Account_Tenure
+CUST0001,56,EMP,Los Angeles,18
+CUST0002,69,Self-employed,Phoenix,0
+CUST0003,46,Self-employed,Chicago,1
+CUST0004,32,Unemployed,Phoenix,15
+CUST0005,60,Self-employed,Phoenix,11
+CUST0006,25,Unemployed,New York,7
+CUST0007,38,employed,New York,17
+CUST0008,56,EMP,New York,1
+CUST0009,36,Employed,Phoenix,12
+CUST0010,40,EMP,Los Angeles,5
+CUST0011,28,Unemployed,Chicago,5
+CUST0012,28,Unemployed,Chicago,8
+CUST0013,41,EMP,Los Angeles,15
+CUST0014,70,retired,Los Angeles,10
+CUST0015,53,Unemployed,Chicago,6
+CUST0016,57,Self-employed,Houston,9
+CUST0017,41,Self-employed,New York,9
+CUST0018,20,Unemployed,New York,19
+CUST0019,39,Unemployed,Chicago,17
+CUST0020,70,retired,Los Angeles,19
+CUST0021,19,Self-employed,Houston,8
+CUST0022,41,Unemployed,Chicago,14
+CUST0023,61,Unemployed,New York,3
+CUST0024,47,retired,Phoenix,7
+CUST0025,55,retired,Los Angeles,8
+CUST0026,19,EMP,Phoenix,12
+CUST0027,38,retired,Chicago,8
+CUST0028,50,Employed,New York,3
+CUST0029,29,Self-employed,Houston,16
+CUST0030,39,EMP,Phoenix,15
+CUST0031,61,Employed,Houston,14
+CUST0032,42,Unemployed,New York,2
+CUST0033,66,Unemployed,Phoenix,19
+CUST0034,44,EMP,Houston,4
+CUST0035,59,retired,Houston,4
+CUST0036,45,Unemployed,Phoenix,19
+CUST0037,33,employed,New York,14
+CUST0038,32,EMP,Houston,17
+CUST0039,64,Employed,Chicago,14
+CUST0040,68,EMP,Phoenix,1
+CUST0041,61,Self-employed,Los Angeles,12
+CUST0042,72,retired,Los Angeles,3
+CUST0043,69,retired,New York,9
+CUST0044,74,EMP,Chicago,12
+CUST0045,20,Unemployed,Houston,9
+CUST0046,54,Unemployed,Los Angeles,8
+CUST0047,68,employed,New York,7
+CUST0048,24,employed,Chicago,2
+CUST0049,38,retired,Chicago,15
+CUST0050,26,employed,New York,13
+CUST0051,56,Employed,New York,8
+CUST0052,35,employed,Houston,10
+CUST0053,21,Employed,New York,2
+CUST0054,42,employed,Houston,4
+CUST0055,31,retired,Houston,9
+CUST0056,67,retired,Phoenix,12
+CUST0057,26,Employed,Chicago,3
+CUST0058,43,EMP,Chicago,12
+CUST0059,70,retired,Chicago,11
+CUST0060,19,EMP,Phoenix,4
+CUST0061,37,Unemployed,Houston,9
+CUST0062,45,Employed,Houston,8
+CUST0063,64,retired,New York,19
+CUST0064,24,Self-employed,Phoenix,6
+CUST0065,61,Unemployed,New York,1
+CUST0066,25,EMP,Phoenix,6
+CUST0067,64,retired,New York,7
+CUST0068,52,Employed,Los Angeles,6
+CUST0069,31,employed,Chicago,13
+CUST0070,34,Self-employed,Chicago,18
+CUST0071,53,EMP,Houston,4
+CUST0072,67,Unemployed,Los Angeles,17
+CUST0073,57,Employed,Chicago,19
+CUST0074,21,Self-employed,Houston,11
+CUST0075,19,Employed,Los Angeles,16
+CUST0076,23,retired,Chicago,12
+CUST0077,71,employed,New York,1
+CUST0078,59,Unemployed,Phoenix,12
+CUST0079,21,Employed,Los Angeles,6
+CUST0080,71,EMP,Houston,9
+CUST0081,46,retired,Los Angeles,5
+CUST0082,35,retired,Houston,2
+CUST0083,43,Unemployed,Los Angeles,2
+CUST0084,61,retired,Houston,17
+CUST0085,51,EMP,Chicago,10
+CUST0086,27,Employed,New York,19
+CUST0087,53,Unemployed,Chicago,4
+CUST0088,31,retired,New York,18
+CUST0089,48,retired,Chicago,18
+CUST0090,65,EMP,Chicago,14
+CUST0091,32,employed,Los Angeles,15
+CUST0092,25,employed,Phoenix,8
+CUST0093,31,retired,Houston,3
+CUST0094,40,Employed,Houston,14
+CUST0095,74,Unemployed,Houston,11
+CUST0096,57,retired,New York,2
+CUST0097,38,Self-employed,Houston,13
+CUST0098,33,Unemployed,Houston,16
+CUST0099,62,employed,Los Angeles,18
+CUST0100,35,retired,Chicago,5
+CUST0101,64,EMP,Houston,3
+CUST0102,70,Self-employed,Phoenix,6
+CUST0103,41,retired,Houston,18
+CUST0104,43,Employed,New York,16
+CUST0105,42,Self-employed,New York,15
+CUST0106,62,retired,New York,14
+CUST0107,58,Employed,Houston,7
+CUST0108,46,Self-employed,Los Angeles,18
+CUST0109,32,Employed,Phoenix,7
+CUST0110,62,Employed,Houston,17
+CUST0111,18,Self-employed,Los Angeles,15
+CUST0112,42,Self-employed,Los Angeles,19
+CUST0113,24,Employed,Houston,18
+CUST0114,26,employed,Houston,9
+CUST0115,41,Self-employed,Los Angeles,16
+CUST0116,18,retired,Los Angeles,12
+CUST0117,61,Unemployed,Los Angeles,12
+CUST0118,25,EMP,Houston,6
+CUST0119,41,Employed,Los Angeles,9
+CUST0120,28,Employed,New York,1
+CUST0121,68,EMP,Houston,3
+CUST0122,34,employed,New York,5
+CUST0123,25,EMP,Chicago,17
+CUST0124,52,Self-employed,Houston,5
+CUST0125,52,EMP,Chicago,16
+CUST0126,50,Employed,Los Angeles,13
+CUST0127,22,EMP,Los Angeles,10
+CUST0128,59,Unemployed,Phoenix,18
+CUST0129,56,retired,Los Angeles,1
+CUST0130,58,Self-employed,Chicago,2
+CUST0131,45,EMP,Los Angeles,10
+CUST0132,24,Employed,Houston,5
+CUST0133,26,retired,Los Angeles,13
+CUST0134,25,Self-employed,Phoenix,18
+CUST0135,29,Employed,Los Angeles,15
+CUST0136,51,employed,Chicago,6
+CUST0137,50,Unemployed,Chicago,7
+CUST0138,65,employed,Los Angeles,18
+CUST0139,72,Unemployed,Chicago,19
+CUST0140,40,EMP,Chicago,15
+CUST0141,41,Self-employed,Phoenix,6
+CUST0142,54,EMP,Houston,8
+CUST0143,52,Unemployed,Phoenix,12
+CUST0144,61,Unemployed,New York,0
+CUST0145,57,Unemployed,Phoenix,7
+CUST0146,39,retired,Los Angeles,3
+CUST0147,44,Employed,Houston,2
+CUST0148,52,Self-employed,Los Angeles,2
+CUST0149,18,EMP,New York,12
+CUST0150,52,EMP,Houston,7
+CUST0151,54,employed,Chicago,6
+CUST0152,64,Unemployed,Phoenix,0
+CUST0153,31,Unemployed,Los Angeles,15
+CUST0154,20,Unemployed,New York,5
+CUST0155,18,EMP,Chicago,6
+CUST0156,22,employed,Phoenix,11
+CUST0157,43,Employed,Chicago,8
+CUST0158,72,retired,Phoenix,10
+CUST0159,31,Self-employed,Houston,9
+CUST0160,56,Employed,Chicago,0
+CUST0161,44,EMP,Chicago,17
+CUST0162,26,retired,Chicago,3
+CUST0163,32,retired,Houston,4
+CUST0164,32,retired,New York,8
+CUST0165,43,Unemployed,Phoenix,16
+CUST0166,59,Self-employed,Chicago,2
+CUST0167,30,EMP,Houston,15
+CUST0168,68,EMP,New York,4
+CUST0169,49,retired,Phoenix,15
+CUST0170,56,EMP,Houston,2
+CUST0171,66,Self-employed,Phoenix,19
+CUST0172,69,Self-employed,Chicago,14
+CUST0173,49,employed,New York,2
+CUST0174,21,employed,Houston,19
+CUST0175,47,Employed,New York,13
+CUST0176,54,Self-employed,Chicago,15
+CUST0177,40,Self-employed,New York,16
+CUST0178,56,Self-employed,New York,19
+CUST0179,62,employed,Los Angeles,17
+CUST0180,32,retired,New York,17
+CUST0181,60,retired,Phoenix,13
+CUST0182,46,EMP,Houston,17
+CUST0183,53,retired,Los Angeles,14
+CUST0184,30,Unemployed,Houston,14
+CUST0185,49,employed,Houston,5
+CUST0186,24,Self-employed,Chicago,14
+CUST0187,68,retired,Chicago,17
+CUST0188,39,employed,Los Angeles,3
+CUST0189,45,retired,Chicago,7
+CUST0190,19,Employed,Chicago,14
+CUST0191,59,Self-employed,Chicago,2
+CUST0192,62,Employed,Houston,14
+CUST0193,74,Self-employed,Los Angeles,12
+CUST0194,70,employed,Houston,8
+CUST0195,23,EMP,Phoenix,1
+CUST0196,45,retired,Houston,7
+CUST0197,45,retired,Phoenix,19
+CUST0198,61,Unemployed,New York,16
+CUST0199,61,Employed,New York,12
+CUST0200,37,retired,Phoenix,0
+CUST0201,47,employed,Phoenix,1
+CUST0202,28,EMP,Houston,14
+CUST0203,72,employed,Phoenix,11
+CUST0204,45,Employed,Los Angeles,13
+CUST0205,42,Unemployed,New York,1
+CUST0206,56,retired,New York,17
+CUST0207,50,employed,Phoenix,6
+CUST0208,18,Self-employed,Chicago,5
+CUST0209,74,EMP,Chicago,13
+CUST0210,44,employed,Phoenix,7
+CUST0211,74,EMP,Los Angeles,1
+CUST0212,69,retired,Chicago,16
+CUST0213,30,Self-employed,Phoenix,4
+CUST0214,58,Unemployed,Los Angeles,13
+CUST0215,20,Unemployed,Los Angeles,19
+CUST0216,56,Self-employed,Houston,2
+CUST0217,23,EMP,Los Angeles,4
+CUST0218,25,retired,Chicago,15
+CUST0219,44,employed,Chicago,17
+CUST0220,26,Self-employed,Phoenix,16
+CUST0221,54,Employed,Phoenix,10
+CUST0222,50,EMP,Los Angeles,16
+CUST0223,68,Unemployed,New York,15
+CUST0224,59,Self-employed,Houston,1
+CUST0225,61,Unemployed,New York,3
+CUST0226,41,EMP,Los Angeles,6
+CUST0227,32,Unemployed,Los Angeles,1
+CUST0228,71,Self-employed,New York,5
+CUST0229,49,EMP,Houston,16
+CUST0230,49,Employed,New York,6
+CUST0231,41,Self-employed,Phoenix,4
+CUST0232,58,employed,Chicago,4
+CUST0233,69,retired,Phoenix,19
+CUST0234,66,Self-employed,Chicago,15
+CUST0235,66,EMP,Los Angeles,18
+CUST0236,69,retired,Houston,8
+CUST0237,29,Self-employed,New York,4
+CUST0238,56,Employed,Houston,7
+CUST0239,19,Employed,New York,8
+CUST0240,20,employed,Phoenix,4
+CUST0241,66,Unemployed,Phoenix,9
+CUST0242,54,retired,New York,1
+CUST0243,66,EMP,Houston,8
+CUST0244,73,EMP,New York,10
+CUST0245,34,Unemployed,Los Angeles,3
+CUST0246,66,Employed,Phoenix,1
+CUST0247,19,Employed,Los Angeles,5
+CUST0248,19,Self-employed,Phoenix,13
+CUST0249,45,employed,Phoenix,0
+CUST0250,71,retired,Chicago,17
+CUST0251,40,employed,Los Angeles,6
+CUST0252,54,employed,Los Angeles,0
+CUST0253,49,Self-employed,Chicago,0
+CUST0254,50,employed,Houston,0
+CUST0255,18,Unemployed,Los Angeles,3
+CUST0256,36,Self-employed,New York,3
+CUST0257,19,Unemployed,Chicago,17
+CUST0258,70,Self-employed,Los Angeles,10
+CUST0259,61,employed,Houston,0
+CUST0260,43,Unemployed,Los Angeles,9
+CUST0261,49,Unemployed,Phoenix,8
+CUST0262,23,Unemployed,New York,3
+CUST0263,49,Self-employed,Chicago,5
+CUST0264,72,EMP,Phoenix,15
+CUST0265,21,employed,Houston,1
+CUST0266,72,Unemployed,Phoenix,17
+CUST0267,28,retired,Phoenix,9
+CUST0268,73,EMP,Houston,16
+CUST0269,34,retired,Phoenix,12
+CUST0270,55,employed,Chicago,17
+CUST0271,41,employed,Los Angeles,12
+CUST0272,22,Unemployed,Phoenix,16
+CUST0273,69,Unemployed,Chicago,4
+CUST0274,51,Self-employed,Los Angeles,10
+CUST0275,23,EMP,Los Angeles,6
+CUST0276,39,EMP,Phoenix,9
+CUST0277,28,Unemployed,Chicago,16
+CUST0278,65,employed,Phoenix,14
+CUST0279,33,Unemployed,Houston,17
+CUST0280,50,employed,Los Angeles,18
+CUST0281,26,employed,Phoenix,1
+CUST0282,23,Unemployed,Los Angeles,3
+CUST0283,33,Employed,Chicago,2
+CUST0284,46,EMP,New York,6
+CUST0285,20,retired,Phoenix,17
+CUST0286,37,employed,Phoenix,9
+CUST0287,53,employed,Los Angeles,6
+CUST0288,36,Employed,Chicago,7
+CUST0289,43,retired,Houston,5
+CUST0290,20,Self-employed,Chicago,0
+CUST0291,36,Employed,Phoenix,3
+CUST0292,37,retired,Houston,13
+CUST0293,49,Employed,Chicago,16
+CUST0294,24,employed,New York,19
+CUST0295,69,EMP,Los Angeles,17
+CUST0296,58,Employed,Chicago,10
+CUST0297,50,Self-employed,Chicago,13
+CUST0298,57,Unemployed,New York,8
+CUST0299,56,retired,Phoenix,14
+CUST0300,35,Employed,Los Angeles,11
+CUST0301,57,Employed,Chicago,9
+CUST0302,18,Self-employed,Houston,18
+CUST0303,28,EMP,Chicago,18
+CUST0304,45,Employed,Los Angeles,5
+CUST0305,74,Employed,Chicago,19
+CUST0306,42,EMP,New York,5
+CUST0307,67,Self-employed,Chicago,7
+CUST0308,40,retired,Chicago,0
+CUST0309,48,retired,Houston,16
+CUST0310,47,Employed,New York,16
+CUST0311,59,EMP,New York,14
+CUST0312,52,Employed,Chicago,6
+CUST0313,24,Unemployed,Houston,18
+CUST0314,33,retired,Chicago,2
+CUST0315,43,employed,Chicago,10
+CUST0316,65,Unemployed,Los Angeles,19
+CUST0317,74,Employed,Los Angeles,18
+CUST0318,69,Self-employed,Houston,8
+CUST0319,66,retired,Phoenix,9
+CUST0320,19,employed,Los Angeles,1
+CUST0321,18,Unemployed,Phoenix,0
+CUST0322,65,retired,New York,15
+CUST0323,29,EMP,Los Angeles,17
+CUST0324,22,Self-employed,Los Angeles,16
+CUST0325,54,Unemployed,Houston,5
+CUST0326,49,EMP,Phoenix,13
+CUST0327,72,Employed,Los Angeles,14
+CUST0328,26,EMP,Los Angeles,13
+CUST0329,58,Unemployed,Houston,2
+CUST0330,52,Unemployed,Houston,18
+CUST0331,36,Employed,Phoenix,11
+CUST0332,65,EMP,New York,1
+CUST0333,33,EMP,New York,2
+CUST0334,20,Employed,Chicago,17
+CUST0335,37,EMP,Los Angeles,0
+CUST0336,41,retired,Phoenix,19
+CUST0337,71,Employed,Los Angeles,5
+CUST0338,73,Self-employed,Phoenix,4
+CUST0339,50,Unemployed,Phoenix,0
+CUST0340,41,Self-employed,Phoenix,18
+CUST0341,69,retired,Los Angeles,0
+CUST0342,28,retired,Houston,15
+CUST0343,66,employed,Los Angeles,11
+CUST0344,25,employed,Phoenix,7
+CUST0345,53,employed,Chicago,15
+CUST0346,55,Employed,New York,0
+CUST0347,57,EMP,Phoenix,3
+CUST0348,37,retired,Chicago,9
+CUST0349,52,Self-employed,Houston,10
+CUST0350,65,Self-employed,Phoenix,16
+CUST0351,42,Self-employed,Chicago,6
+CUST0352,52,Self-employed,Phoenix,11
+CUST0353,42,employed,Los Angeles,6
+CUST0354,46,Self-employed,Chicago,11
+CUST0355,35,EMP,Los Angeles,14
+CUST0356,63,employed,Los Angeles,1
+CUST0357,35,Self-employed,Chicago,13
+CUST0358,19,Employed,New York,12
+CUST0359,71,Unemployed,Chicago,3
+CUST0360,52,Unemployed,New York,13
+CUST0361,33,Unemployed,Phoenix,13
+CUST0362,58,employed,Phoenix,15
+CUST0363,53,Self-employed,Chicago,6
+CUST0364,50,retired,Phoenix,18
+CUST0365,21,retired,Houston,1
+CUST0366,50,retired,Los Angeles,9
+CUST0367,31,employed,Los Angeles,17
+CUST0368,38,EMP,New York,16
+CUST0369,65,Employed,Phoenix,4
+CUST0370,37,Employed,New York,11
+CUST0371,73,Unemployed,Los Angeles,5
+CUST0372,25,Unemployed,Los Angeles,8
+CUST0373,24,retired,Phoenix,19
+CUST0374,20,retired,Houston,0
+CUST0375,34,Unemployed,Houston,14
+CUST0376,50,Self-employed,Phoenix,5
+CUST0377,65,EMP,Phoenix,18
+CUST0378,29,EMP,New York,17
+CUST0379,68,EMP,Phoenix,5
+CUST0380,39,EMP,Houston,12
+CUST0381,72,Unemployed,Phoenix,0
+CUST0382,39,Employed,New York,12
+CUST0383,63,Unemployed,New York,6
+CUST0384,47,EMP,New York,14
+CUST0385,55,Unemployed,New York,11
+CUST0386,55,EMP,Chicago,0
+CUST0387,62,employed,Phoenix,14
+CUST0388,68,retired,Los Angeles,3
+CUST0389,71,Employed,Phoenix,12
+CUST0390,25,employed,Chicago,4
+CUST0391,44,Self-employed,New York,1
+CUST0392,44,Unemployed,Chicago,0
+CUST0393,51,Self-employed,Houston,15
+CUST0394,38,Unemployed,Houston,5
+CUST0395,47,retired,Phoenix,15
+CUST0396,50,employed,Phoenix,13
+CUST0397,45,retired,Los Angeles,2
+CUST0398,64,EMP,Los Angeles,14
+CUST0399,50,retired,Houston,2
+CUST0400,22,retired,New York,1
+CUST0401,65,EMP,Chicago,0
+CUST0402,36,Unemployed,Los Angeles,8
+CUST0403,21,EMP,Los Angeles,8
+CUST0404,52,employed,New York,6
+CUST0405,66,retired,New York,2
+CUST0406,34,EMP,Phoenix,17
+CUST0407,61,retired,Chicago,10
+CUST0408,45,employed,New York,6
+CUST0409,47,Self-employed,Los Angeles,8
+CUST0410,46,employed,Los Angeles,0
+CUST0411,63,Employed,Houston,13
+CUST0412,70,Employed,New York,19
+CUST0413,23,Employed,Phoenix,5
+CUST0414,52,retired,Chicago,6
+CUST0415,58,Unemployed,Phoenix,9
+CUST0416,54,Unemployed,Los Angeles,6
+CUST0417,41,Unemployed,Phoenix,1
+CUST0418,46,retired,Los Angeles,3
+CUST0419,66,employed,Los Angeles,16
+CUST0420,63,Unemployed,Los Angeles,0
+CUST0421,70,Self-employed,Los Angeles,9
+CUST0422,48,Employed,Los Angeles,18
+CUST0423,52,employed,Houston,14
+CUST0424,50,Employed,Phoenix,9
+CUST0425,69,Unemployed,Houston,18
+CUST0426,38,employed,Houston,11
+CUST0427,49,EMP,New York,15
+CUST0428,40,Self-employed,New York,8
+CUST0429,50,Unemployed,New York,14
+CUST0430,20,Unemployed,Chicago,16
+CUST0431,35,Self-employed,New York,13
+CUST0432,42,Self-employed,Phoenix,17
+CUST0433,59,EMP,Houston,1
+CUST0434,48,Unemployed,Phoenix,3
+CUST0435,71,retired,New York,17
+CUST0436,20,Unemployed,Chicago,6
+CUST0437,57,Employed,Chicago,12
+CUST0438,63,employed,Houston,14
+CUST0439,41,employed,Phoenix,0
+CUST0440,67,Employed,Los Angeles,10
+CUST0441,49,employed,Phoenix,9
+CUST0442,64,Self-employed,New York,4
+CUST0443,39,employed,Los Angeles,15
+CUST0444,40,employed,Chicago,10
+CUST0445,19,Employed,Houston,5
+CUST0446,44,EMP,Houston,8
+CUST0447,59,employed,Chicago,12
+CUST0448,19,retired,New York,7
+CUST0449,43,employed,Chicago,13
+CUST0450,34,EMP,New York,0
+CUST0451,57,Employed,Los Angeles,16
+CUST0452,50,EMP,Chicago,4
+CUST0453,26,Employed,New York,1
+CUST0454,60,Self-employed,Los Angeles,8
+CUST0455,71,Employed,Chicago,3
+CUST0456,65,Self-employed,Houston,16
+CUST0457,56,Self-employed,Chicago,16
+CUST0458,46,Employed,Phoenix,17
+CUST0459,59,retired,Chicago,15
+CUST0460,72,Unemployed,Phoenix,7
+CUST0461,43,Employed,Los Angeles,10
+CUST0462,52,employed,Chicago,17
+CUST0463,67,retired,Los Angeles,9
+CUST0464,42,retired,Los Angeles,12
+CUST0465,41,employed,New York,16
+CUST0466,30,Unemployed,Los Angeles,17
+CUST0467,24,retired,Los Angeles,9
+CUST0468,74,Self-employed,Chicago,15
+CUST0469,53,Unemployed,Chicago,19
+CUST0470,62,employed,Houston,4
+CUST0471,37,Unemployed,New York,12
+CUST0472,18,Employed,Los Angeles,17
+CUST0473,25,Unemployed,New York,16
+CUST0474,63,Self-employed,Phoenix,8
+CUST0475,33,Employed,Los Angeles,13
+CUST0476,31,EMP,New York,16
+CUST0477,29,employed,Houston,3
+CUST0478,68,employed,Houston,17
+CUST0479,40,Unemployed,Los Angeles,19
+CUST0480,32,retired,Phoenix,14
+CUST0481,45,Employed,Houston,10
+CUST0482,51,EMP,Houston,11
+CUST0483,19,Employed,Phoenix,8
+CUST0484,49,employed,New York,12
+CUST0485,40,Employed,Houston,14
+CUST0486,39,EMP,Chicago,14
+CUST0487,68,retired,Houston,4
+CUST0488,42,Unemployed,New York,18
+CUST0489,39,Self-employed,New York,19
+CUST0490,39,Employed,Los Angeles,13
+CUST0491,66,Self-employed,Chicago,16
+CUST0492,69,employed,New York,17
+CUST0493,59,Unemployed,Phoenix,2
+CUST0494,23,Unemployed,Chicago,1
+CUST0495,32,Employed,Chicago,0
+CUST0496,71,retired,Phoenix,9
+CUST0497,60,Unemployed,Houston,18
+CUST0498,54,Employed,Phoenix,16
+CUST0499,50,Employed,Phoenix,11
+CUST0500,25,Self-employed,Houston,0
