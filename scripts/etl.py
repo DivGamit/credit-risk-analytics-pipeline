@@ -39,12 +39,12 @@ def create_star_schema(df):
 
 if __name__ == "__main__":
     
-    os.makedirs('data\processed', exist_ok=True)
+    os.makedirs('data/processed', exist_ok=True)
 
-    df_clean = clean_data('C:\Divyesh_Projects\Data Analyst Project\Delinquency_prediction_dataset.csv')
+    df_clean = clean_data('data/raw/Delinquency_prediction_dataset.csv')
     dim_cust, dim_pay, fact_risk = create_star_schema(df_clean)
     
-    dim_cust.to_csv('data\processed\dim_customer.csv', index=False)
-    dim_pay.to_csv('data\processed\dim_payment_history.csv', index=False)
-    fact_risk.to_csv('data\\processed\\fact_customer_risk.csv', index=False)
+    dim_cust.to_csv('data/processed/dim_customer.csv', index=False)
+    dim_pay.to_csv('data/processed/dim_payment_history.csv', index=False)
+    fact_risk.to_csv('data/processed/fact_customer_risk.csv', index=False)
     print("ETL pipeline executed successfully!")
