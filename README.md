@@ -38,11 +38,24 @@ Tool,Focus Area,Applied Techniques & Features
 ---
 
 ## Repository Structure
+```text
+credit-risk-analytics-pipeline
+├── data
+│   ├── processed
+│   └── raw
+├── dashboard
+│   ├── credit_risk_dashboard.pbix
+│   └── dashboard_preview.png
+├── scripts
+│   └── etl_pipeline.py
+├── sql
+│   ├── analytics_queries.sql
+│   └── schema.sql
+└── README.md
 
 
-
-
--- Risk Exposure & Default Rate by Employment Status
+**Core Analytical Queries (SQL Snippet)**
+## Risk Exposure & Default Rate by Employment Status 
 SELECT 
     c.employment_status,
     COUNT(f.customer_id) AS total_customers,
