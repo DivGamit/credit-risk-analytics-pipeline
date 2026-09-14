@@ -38,7 +38,6 @@ Tool,Focus Area,Applied Techniques & Features
 ---
 
 ## Repository Structure
-```text
 credit-risk-analytics-pipeline
 ├── data
 │   ├── processed
@@ -53,9 +52,15 @@ credit-risk-analytics-pipeline
 │   └── schema.sql
 └── README.md
 
+---
 
-**Core Analytical Queries (SQL Snippet)**
-## Risk Exposure & Default Rate by Employment Status 
+---
+
+## **Core Analytical Queries (SQL Snippet)**
+
+### **Risk Exposure & Default Rate by Employment Status**
+
+
 SELECT 
     c.employment_status,
     COUNT(f.customer_id) AS total_customers,
@@ -67,12 +72,16 @@ JOIN dim_customer c ON f.customer_id = c.customer_id
 GROUP BY c.employment_status
 ORDER BY default_rate_pct DESC;
 
-How to Run This Project
-Run Python ETL:
+
+## How to Run This Project
+**Run Python ETL:**
 python scripts/etl_pipeline.py
 
-Build Database:
-Run sql/schema.sql inside your PostgreSQL GUI, import the clean CSVs from data/processed/, then execute sql/analytics_queries.sql.
+**Build Database:**
+Run sql/schema.sql inside your PostgreSQL GUI.
 
-Open Dashboard:
-Open dashboard/credit_risk_dashboard.pbix in Power BI Desktop to inspect the visualizations and DAX measures.
+**Import the clean CSVs from data/processed/.**
+Execute sql/analytics_queries.sql.
+
+**Open Dashboard:**
+Open dashboard/credit_risk_dashboard.pbix in Power BI Desktop to inspect visualizations and DAX measures.python scripts/etl_pipeline.py
